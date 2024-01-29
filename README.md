@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @McRain
-- 👀 I’m interested in in a lot
+- 👀 
 - 🌱 
 - 💞️ 
 - 📫 .
