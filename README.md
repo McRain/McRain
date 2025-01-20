@@ -10,6 +10,7 @@
 
 [lightweight servers (http or websocket)](https://github.com/McRain/reneos.server)
 
+[Client utility for building GraphQL queries to API](https://github.com/McRain/reneos.gqlc)
 
 <!---
 McRain/McRain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
