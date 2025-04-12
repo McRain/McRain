@@ -5,7 +5,7 @@
 - 📫 .
 
   
-[3D Presenation build](https://3dbuilder.reneos.com/player)
+[3D Presenation builder](https://3dbuilder.reneos.com/player)
 
 [BimViewer](https://github.com/McRain/bim)
 
