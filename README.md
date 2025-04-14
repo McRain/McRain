@@ -5,7 +5,7 @@
 - 📫 .
 
   
-[3D Presenation builder](https://3dbuilder.reneos.com/player)
+[3D Presenation builder](https://github.com/McRain/3d.pub)
 
 [3D Dashboard ](https://verse.reneos.com/)
 
