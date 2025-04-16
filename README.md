@@ -4,6 +4,8 @@
 - 💞️ 
 - 📫 .
 
+
+[About me](https://iam.reneos.com/)
   
 [3D Presenation builder](https://github.com/McRain/3d.pub)
 
