@@ -17,6 +17,8 @@
 
 [Client utility for building GraphQL queries to API](https://github.com/McRain/reneos.gqlc)
 
+[Habr](https://habr.com/ru/users/McRain/articles/)
+
 <!---
 McRain/McRain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
