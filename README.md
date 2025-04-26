@@ -9,8 +9,6 @@
   
 [3D Presenation builder](https://github.com/McRain/3d.pub)
 
-[3D Dashboard ](https://verse.reneos.com/)
-
 [BimViewer](https://github.com/McRain/bim)
 
 [Applications for authorization and user authentication, optimized for microservices architecture.](https://github.com/McRain/reneos.auth)
