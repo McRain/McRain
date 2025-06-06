@@ -15,7 +15,7 @@
 
 [lightweight servers (http or websocket)](https://github.com/McRain/reneos.server)
 
-[Telegram bot - text to image generator](https://t.me/salvadore_bot)
+[Salvadore - Telegram bot - text to image generator](https://t.me/salvadore_bot)
 
 [Client utility for building GraphQL queries to API](https://github.com/McRain/reneos.gqlc)
 
