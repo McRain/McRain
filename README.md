@@ -7,7 +7,7 @@
 
 [About me](https://iam.reneos.com/)
   
-[3D Presenation builder](https://github.com/McRain/3d.pub)
+[3D Presenation builder](https://github.com/McRain/slider)
 
 [BimViewer](https://github.com/McRain/bim)
 
