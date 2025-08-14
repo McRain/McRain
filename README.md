@@ -6,6 +6,8 @@
 
 
 [About me](https://iam.reneos.com/)
+
+[Habr articles](https://habr.com/ru/users/McRain/articles/)
   
 [3D Presenation builder](https://github.com/McRain/slider)
 
@@ -21,7 +23,6 @@
 
 [Client utility for building GraphQL queries to API](https://github.com/McRain/reneos.gqlc)
 
-[Habr articles](https://habr.com/ru/users/McRain/articles/)
 
 <!---
 McRain/McRain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
