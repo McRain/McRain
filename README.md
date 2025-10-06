@@ -15,6 +15,8 @@
 
 [Voxels genartion by model](https://voxelgen.reneos.com/)
 
+[Chrome extension : Notes ]([https://voxelgen.reneos.com/](https://chromewebstore.google.com/detail/ecjnfhhalochinmpoikmpidnhbblmgdf?utm_source=git_page))
+
 [Applications for authorization and user authentication, optimized for microservices architecture.](https://github.com/McRain/reneos.auth)
 
 [lightweight servers (http or websocket)](https://github.com/McRain/reneos.server)
