@@ -9,11 +9,13 @@
 
 [Habr articles](https://habr.com/ru/users/McRain/articles/)
   
-[3D Presenation builder](https://github.com/McRain/slider)
+[3D Presenation builder](https://github.com/McRain/stage)
 
 [BimViewer](https://github.com/McRain/bim)
 
 [Voxels genartion by model](https://voxelgen.reneos.com/)
+
+[Chrome extension : Notes ](https://chromewebstore.google.com/detail/note-helper/ecjnfhhalochinmpoikmpidnhbblmgdf?utm_source=git_page)
 
 [Applications for authorization and user authentication, optimized for microservices architecture.](https://github.com/McRain/reneos.auth)
 
