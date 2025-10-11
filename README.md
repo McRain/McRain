@@ -9,7 +9,7 @@
 
 [Habr articles](https://habr.com/ru/users/McRain/articles/)
   
-[3D Presenation builder](https://github.com/McRain/slider)
+[3D Presenation builder](https://github.com/McRain/stage)
 
 [BimViewer](https://github.com/McRain/bim)
 
