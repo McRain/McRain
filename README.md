@@ -8,6 +8,8 @@
 [About me](https://iam.reneos.com/)
 
 [Habr articles](https://habr.com/ru/users/McRain/articles/)
+
+[BinBot - trading bots platform](https://binbot.reneos.com/)
   
 [3D Presenation builder](https://github.com/McRain/stage)
 
